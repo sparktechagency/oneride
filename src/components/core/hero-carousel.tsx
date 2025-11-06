@@ -68,9 +68,9 @@ export default function HeroCarousel({
                       Eminem Live in Concert{" "}
                     </h2>
                     <h3 className="text-xl lg:text-3xl">Auckland Stadium</h3>
-                    <p className="text-base text-primary">
+                    {/* <p className="text-base text-primary">
                       June 21, 2025 · 7:30 PM
-                    </p>
+                    </p> */}
                   </div>
                 </CardContent>
               </Card>
